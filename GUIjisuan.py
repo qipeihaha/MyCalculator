@@ -4,7 +4,7 @@ class About(wx.Frame):
     def __init__(self):
         wx.Frame.__init__(self, frame, id=-1, title='', pos=(-1, -1),size=(-1, -1))
         panel = wx.Panel(self)
-        title = wx.StaticText(panel, label='关于\n编写者:@启培\n警告，请勿用于精密计算！\n感谢使用！')
+        title = wx.StaticText(panel, label='关于\n请勿用于精密计算！')
 
 def aboutshow(event):
     aboutframe = About()
