@@ -1,8 +1,9 @@
 # MyCalculator
 
+Only python3.9
 It's a Chinese App
-First you need to install 'wxPython' ,it's a pip pack.
-Open'cmd',press'pip install wxPython'and Enter.(please install python)
+The app need 'wxpython'to run.
+Open'cmd',press'pip install wxPython'and press"Enter".(install python)
 Pip will install wxPython.
 Now open zhe file with Python!
 Enjoy
